@@ -1,8 +1,6 @@
 ![giphy](https://github.com/user-attachments/assets/4f61cc5c-4af0-4ce5-b538-c680e17a350f)
 
-h1 {text-align: center;}
-<h1> Hello👋 I'm Kier Christian Reyes </h1>
-
+<center>  Hello👋 I'm Kier Christian Reyes </center>
 # 💫 About Me:
 🔭 I’m currently in my third year college<br>🌱 I’m currently learning Data Science 
 
