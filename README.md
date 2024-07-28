@@ -1,8 +1,10 @@
 ![giphy](https://github.com/user-attachments/assets/4f61cc5c-4af0-4ce5-b538-c680e17a350f)
 
-<div style="text-align:center">
-  Hello👋 I'm Kier Christian Reyes!
-</div>
+<center>
+  Hello👋 I'm Kier Christian Reyes.
+  <p>3rd Year CS Student.</p>
+</center>
+
 
 
 # 💫 About Me:
