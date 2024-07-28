@@ -1,7 +1,8 @@
+![giphy](https://github.com/user-attachments/assets/4f61cc5c-4af0-4ce5-b538-c680e17a350f)
+
 # 💫 About Me:
 🔭 I’m currently in my third year college<br>🌱 I’m currently learning Data Science 
 
-![giphy](https://github.com/user-attachments/assets/4f61cc5c-4af0-4ce5-b538-c680e17a350f)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kier Christian Reyes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kierchris) 
