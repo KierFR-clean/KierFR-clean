@@ -1,10 +1,10 @@
 💫 About Me:
-🔭 I am a Backend Developer exploring cloud computing. Currently, I am on my AWS journey. I am pursuing the Cloud Practitioner certification and gaining practical experience with cloud services.
+🔭 I am a Backend Developer exploring cloud computing. Currently, I am on my AWS journey. I am pursuing Devops Engineering and gaining practical experience with cloud services.
 
 📈 Projects
 # In Progress
-- AWS Cloud Practitioner Certification Journey
-  - Documenting my learning path
+- AWS Cloud Practitioner Journey
+  - Recently passed the AWS Cloud Practitioner Examination
 
 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kier Christian Reyes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kierchris) 
